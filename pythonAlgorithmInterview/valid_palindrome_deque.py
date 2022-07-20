@@ -6,6 +6,7 @@
 # 입력 - "race a car"
 # 출력 - False
 import collections
+from typing import Deque
 
 def isValidPalindrome(s: str) -> bool:
     strs: Deque = collections.deque()
