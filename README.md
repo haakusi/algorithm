@@ -6,3 +6,4 @@ to effort by algorithm.
 [003. Valid Palindrome - slicing](pythonAlgorithmInterview/valid_palindrome_slicing.py) : 슬라이싱 활용 <br>
 [004. Reverse String - twoPointer](pythonAlgorithmInterview/reverse_string_twoPointer.py) : 투포인터 활용 <br>
 [005. Reverse String - reverse](pythonAlgorithmInterview/reverse_string_reverse.py) : 리버스함수 활용 <br>
+[006. Reorder Data in Log Files](pythonAlgorithmInterview/reorder_data_inLogFiles.py) : 람다 활용 <br>
